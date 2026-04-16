@@ -8,11 +8,17 @@ As a **Senior Software Support Engineer and Data Analyst**, I use this space to 
 
 ### 🎨 Featured Shaders
 
-Each folder contains the source code (`fragment.glsl`) and a technical breakdown of the math involved:
+* **[Ethereal Emerald](./Ethereal-Emerald)**
+  ![Ethereal Emerald](./Ethereal-Emerald/giphy.gif)
+  *A volumetric raymarching study on organic light.*
 
-* **[Ethereal Emerald](./Ethereal-Emerald)**: A volumetric raymarching study on organic light and deep refractions.
-* **[Metal Nostalgic](./Metal-Nostalgic)**: An exploration of liquid-metal surfaces using domain warping and custom normal mapping.
+* **[Liquid Metal](./Liquid-Metal)**
+  ![Liquid Metal](./Liquid-Metal/giphy(2).gif)
+  *High-contrast reflective surfaces using domain warping.*
 
+* **[Metal Nostalgic](./Metal-Nostalgic)**
+  ![Metal Nostalgic](./Metal-Nostalgic/giphy(3).gif)
+  *Exploration of liquid-metal and custom normal mapping.*
 ---
 
 ### 🛠 Technical Stack
