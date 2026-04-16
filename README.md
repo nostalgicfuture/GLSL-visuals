@@ -6,19 +6,13 @@ As a **Senior Software Support Engineer and Data Analyst**, I use this space to 
 
 ---
 
-### 🎨 Featured Shaders
+### 🎨 Gallery
 
-* **[Ethereal Emerald](./Ethereal-Emerald)**
-  ![Ethereal Emerald](./Ethereal-Emerald/giphy.gif)
-  *A volumetric raymarching study on organic light.*
-
-* **[Liquid Metal](./Liquid-Metal)**
-  ![Liquid Metal](./Liquid-Metal/giphy(2).gif)
-  *High-contrast reflective surfaces using domain warping.*
-
-* **[Metal Nostalgic](./Metal-Nostalgic)**
-  ![Metal Nostalgic](./Metal-Nostalgic/giphy(3).gif)
-  *Exploration of liquid-metal and custom normal mapping.*
+| Shader | Preview | Description |
+| :--- | :---: | :--- |
+| **Ethereal Emerald** | <img src="./giphy.gif" width="200"> | Volumetric raymarching & organic light. |
+| **Liquid Metal** | <img src="./giphy(2).gif" width="200"> | Domain warping & specular highlights. |
+| **Metal Nostalgic** | <img src="./giphy(3).gif" width="200"> | Surface reflections & normal mapping. |
 ---
 
 ### 🛠 Technical Stack
