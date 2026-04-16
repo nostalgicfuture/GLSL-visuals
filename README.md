@@ -1,16 +1,36 @@
-# Ethereal Emerald 💎
+# GLSL Visuals & Generative Art Collection 🧪✨
 
-A volumetric raymarching exploration focused on deep emerald tones and organic, breathing motion.
+Welcome to my personal laboratory of fragment shaders. This repository is a curated collection of my work in **GLSL**, exploring the intersection of mathematics, light, and motion under my creative alias **nostalgic_future**.
 
-### 🔬 Technical Highlights
-* **Volumetric Accumulation:** Uses a 100-step loop to accumulate color density based on distance, creating a glowing, ethereal atmosphere.
-* **Dynamic Rotation:** Implements a 2D rotation matrix (`mat2`) that evolves with time and depth, giving the visual its swirling, hypnotic effect.
-* **Breathe Function:** Features a sine-driven "breathing" variable that modulates the scene's spatial scale in real-time.
-* **Post-Processing:** Uses `tanh` for soft-clipping high brightness values and a power function for gamma correction, ensuring the greens look deep and saturated.
+As a **Senior Software Support Engineer and Data Analyst**, I use this space to experiment with real-time rendering, algorithm optimization, and the beauty of procedural generation.
 
-### 🛠 Tools
+---
+
+### 🎨 Featured Shaders
+
+Each folder contains the source code (`fragment.glsl`) and a technical breakdown of the math involved:
+
+* **[Ethereal Emerald](./Ethereal-Emerald)**: A volumetric raymarching study on organic light and deep refractions.
+* **[Metal Nostalgic](./Metal-Nostalgic)**: An exploration of liquid-metal surfaces using domain warping and custom normal mapping.
+
+---
+
+### 🛠 Technical Stack
 * **Language:** GLSL (OpenGL Shading Language)
-* **Environment:** Shadertoy / WebGL
+* **Concepts:** Raymarching, Signed Distance Fields (SDFs), Domain Warping, Noise functions, and Volumetric Lighting.
+* **Platforms:** WebGL / Shadertoy / TouchDesigner.
 
-### 🔗 Live Demo
-View the animated version on my [Shadertoy Profile](https://www.shadertoy.com/user/nostalgic_future).
+---
+
+### 🌐 Live Exploration
+You can interact with these visuals in real-time and see the evolving code on my **Shadertoy profile**:
+👉 [shadertoy.com/user/nostalgic_future](https://www.shadertoy.com/user/nostalgic_future)
+
+---
+
+### 📬 Connect with me
+* **Portfolio:** [nostalgicfuture.github.io/nostalgic-future-web/](https://nostalgicfuture.github.io/nostalgic-future-web/)
+* **LinkedIn:** https://www.linkedin.com/in/jmiberri/
+
+---
+*Created with 💖 during the night hours 🦉*
