@@ -10,10 +10,10 @@ As a **Senior Software Support Engineer and Data Analyst**, I use this space to 
 
 | Shader | Preview | Description |
 | :--- | :---: | :--- |
-| **Ethereal Emerald** | <img src="./Ethereal-Emerald/giphy.gif" width="200"> | Volumetric raymarching & organic light. |
-| **Liquid Metal** | <img src="./liquid-metal-drops/giphy%20(3).gif" width="200"> | Domain warping & specular highlights. |
-| **Metal Nostalgic** | <img src="./Metal-Nostalgic/giphy%20(2).gif" width="200"> | Surface reflections & normal mapping. |
----
+| **Ethereal Emerald** | <img src="Ethereal-Emerald/giphy.gif" width="200"> | Volumetric raymarching & organic light. |
+| **Liquid Metal** | <img src="liquid-metal-drops/giphy%20(3).gif" width="200"> | Domain warping & specular highlights. |
+| **Metal Nostalgic** | <img src="Metal-Nostalgic/giphy%20(2).gif" width="200"> | Surface reflections & normal mapping. |
+
 
 ### 🛠 Technical Stack
 * **Language:** GLSL (OpenGL Shading Language)
