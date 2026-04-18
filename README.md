@@ -15,6 +15,7 @@ As a **Senior Software Support Engineer and Data Analyst**, I use this space to 
 | **Metal Nostalgic** | <img src="Metal-Nostalgic/giphy%20(2).gif" width="200"> | Surface reflections & normal mapping. |
 | **Ghostly Plasma** | <img src="ghostly-plasma/giphy%20(6).gif" width="200"> | Advanced FBM flow & spectral color theory. |
 | **Mandala Slime** | <img src="Mandala-Slime/giphy%20(7).gif" width="200"> | Polar coordinates & iterative space folding. |
+|**Chrome Kaleidoscope** | <img src="Chrome-Kaleidoscope/giphy%20(9).gif" width="200"> | Fractal IFS & infinite geometric structures. |
 
 
 ### 🛠 Technical Stack
