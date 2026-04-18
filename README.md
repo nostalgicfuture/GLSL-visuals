@@ -14,6 +14,7 @@ As a **Senior Software Support Engineer and Data Analyst**, I use this space to 
 | **Liquid Metal** | <img src="liquid metal drops/giphy%20(3).gif" width="200"> | Domain warping & specular highlights. |
 | **Metal Nostalgic** | <img src="Metal-Nostalgic/giphy%20(2).gif" width="200"> | Surface reflections & normal mapping. |
 | **Ghostly Plasma** | <img src="ghostly-plasma/giphy%20(6).gif" width="200"> | Advanced FBM flow & spectral color theory. |
+| **Mandala Slime** | <img src="Mandala-Slime/giphy%20(7).gif" width="200"> | Polar coordinates & iterative space folding. |
 
 
 ### 🛠 Technical Stack
